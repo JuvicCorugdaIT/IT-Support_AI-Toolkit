@@ -46,7 +46,7 @@ Built-in guardrails ensure the AI provides safe stopping points, escalation crit
 
 ## 🚀 How to Use
 
-1. Open **`01_IT_Support_Troubleshooting_Portfolio_Prompt.md`**.
+1. Open **`01_IT_Support_Troubleshooting_AI_Prompt.md`**.
 2. Copy the entire contents of the file.
 3. Paste it into your preferred LLM (e.g., Gemini, ChatGPT, Claude).
 4. Fill in the blank fields under **"1. Scenario and boundaries"** and **"2. Narrowed-down diagnostics"** with your specific simulated or real-world IT scenario.
