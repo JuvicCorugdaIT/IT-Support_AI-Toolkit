@@ -1,4 +1,4 @@
-# Small-Office IT Support & Troubleshooting Portfolio Prompt
+# Small-Office IT Support & Troubleshooting AI Prompt
 
 Welcome to the **Small-Office IT Support Prompt** repository. This project contains a comprehensive, highly-structured AI prompt designed to generate a complete suite of IT support artifacts for a small business environment. 
 
@@ -7,7 +7,7 @@ By utilizing the core prompt found in this repository, users can command Large L
 ## 📄 Core Prompt File
 
 The main engine of this project is the prompt file itself. Please refer to the following file to view, copy, and use the prompt:
-**`01_IT_Support_Troubleshooting_Portfolio_Prompt.md`**
+**`01_IT_Support_Troubleshooting_AI_Prompt.md`**
 
 ## 🎯 Purpose and Scope
 
